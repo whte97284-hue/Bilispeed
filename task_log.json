@@ -1,0 +1,205 @@
+[
+  {
+    "time": "12-03 08:14",
+    "mod": "监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 08:14",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵: ON"
+  },
+  {
+    "time": "12-03 07:56",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "⚠️ 异常",
+    "msg": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\33011\\\\Downloads\\\\Python_Project\\\\博客\\\\工具\\\\自动抓取v3\\\\history\\\\monitor\\\\BV1jDSrBPENE_monitor.csv'"
+  },
+  {
+    "time": "12-03 07:56",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "⚠️ 异常",
+    "msg": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\33011\\\\Downloads\\\\Python_Project\\\\博客\\\\工具\\\\自动抓取v3\\\\history\\\\monitor\\\\BV1jDSrBPENE_monitor.csv'"
+  },
+  {
+    "time": "12-03 07:54",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "⚠️ 异常",
+    "msg": "[Errno 2] No such fi"
+  },
+  {
+    "time": "12-03 07:43",
+    "mod": "监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 07:42",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵: ON"
+  },
+  {
+    "time": "12-03 07:38",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵:ON"
+  },
+  {
+    "time": "12-03 07:35",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "含硬币监测 | 哨兵:ON"
+  },
+  {
+    "time": "12-03 07:19",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵: ON"
+  },
+  {
+    "time": "12-03 07:05",
+    "mod": "监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 07:05",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵: ON"
+  },
+  {
+    "time": "12-03 07:02",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "启动",
+    "msg": "哨兵: ON"
+  },
+  {
+    "time": "12-03 06:57",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🛑 停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 06:56",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "哨兵模式: 开启"
+  },
+  {
+    "time": "12-03 06:46",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "预计运行至 06:46"
+  },
+  {
+    "time": "12-03 06:41",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "预计运行至 06:41"
+  },
+  {
+    "time": "12-03 06:32",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "预计运行至 06:32"
+  },
+  {
+    "time": "12-03 06:28",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🛑 停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 06:26",
+    "mod": "实时监控",
+    "tgt": "BV1jDSrBPENE",
+    "sts": "🟢 启动",
+    "msg": "24h"
+  },
+  {
+    "time": "12-03 06:26",
+    "mod": "实时监控",
+    "tgt": "BV1K6S4ByE7N",
+    "sts": "🛑 停止",
+    "msg": ""
+  },
+  {
+    "time": "12-03 06:25",
+    "mod": "实时监控",
+    "tgt": "BV1K6S4ByE7N",
+    "sts": "🟢 启动",
+    "msg": "24h"
+  },
+  {
+    "time": "12-03 05:42",
+    "mod": "视频下载",
+    "tgt": "【𝟒𝐊 𝟲𝟬帧】CHA∞IN ",
+    "sts": "✅ 成功",
+    "msg": "Q:4K"
+  },
+  {
+    "time": "12-03 05:39",
+    "mod": "视频下载",
+    "tgt": "c106 NIKKE展台直拍",
+    "sts": "❌ 失败",
+    "msg": "Check Console"
+  },
+  {
+    "time": "12-03 05:38",
+    "mod": "视频下载",
+    "tgt": "c106 NIKKE展台直拍",
+    "sts": "❌ 失败",
+    "msg": "Check Console"
+  },
+  {
+    "time": "12-03 05:33",
+    "mod": "视频下载",
+    "tgt": "ykn充满力量的歌声翻唱让你每",
+    "sts": "✅ 成功",
+    "msg": "BBDown"
+  },
+  {
+    "time": "12-03 04:04",
+    "mod": "视频下载",
+    "tgt": "九天八夜5000畅玩东京二次元",
+    "sts": "✅ 成功",
+    "msg": "成功 (Q120)"
+  },
+  {
+    "time": "12-03 03:51",
+    "mod": "数据分析",
+    "tgt": "Wh1te11",
+    "sts": "✅ 完成",
+    "msg": "78条"
+  },
+  {
+    "time": "12-03 03:47",
+    "mod": "视频下载",
+    "tgt": "九天八夜5000畅玩东京二次元",
+    "sts": "❌ 失败",
+    "msg": "失败: [Errno 28] No space left on device"
+  }
+]
