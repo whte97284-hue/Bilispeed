@@ -1,4 +1,4 @@
-# 📺 Bili_Final：B站数据分析与全能下载工具箱 (Ultimate Edition)
+# 📺 B站数据分析与全能下载工具箱 (Ultimate Edition)
 
 > 集成 **舆情分析**、**智能归档**、**流量监测** 及 **港澳台番剧(HMT)下载** 于一体的桌面端效率工具。
 > 基于 Python、Streamlit、SQLite 与 BBDown 构建，专为创作与数据。
